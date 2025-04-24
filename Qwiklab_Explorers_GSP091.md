@@ -11,11 +11,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Bigtable-Qwik-Start---Command-Line-GSP099/refs/heads/main/qwiklab_explorers_gsp099.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Creating-and-Alerting-on-Logs-based-Metrics-GSP091-updated/refs/heads/main/qwiklab_explorers_gsp091.sh
 
-sudo chmod +x qwiklab_explorers_gsp099.sh
+sudo chmod +x qwiklab_explorers_gsp091.sh
 
-./qwiklab_explorers_gsp099.sh
+./qwiklab_explorers_gsp091.sh
 ```
 
 ---
